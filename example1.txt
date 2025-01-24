@@ -1,2 +1,2 @@
-example program for git-t
+example program for git
 example program for gits
